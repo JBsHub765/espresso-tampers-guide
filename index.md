@@ -10,4 +10,5 @@ Welcome to **Espresso Tampers Guide**, a resource for coffee lovers who want t
 - **[Maintaining Your French Press Grinder: Cleaning and Care Tips](/maintaining-french-press-grinder.md)** – Practical advice on cleaning, replacing burrs and caring for your grinder to ensure long‑term performance.
 - **[Manual vs Electric Grinders: Which Is Best for French Press?](/manual-vs-electric-grinders.md)** – A comparison of hand grinders and electric grinders, covering grind quality, speed, cost and portability.
 
-Each article includes placeholders for affiliate links (`AFFILIATE_LINK_PLACEHOLDER`).  Replace these with your own affiliate URLs before publishing.
+
+Each article includes Amazon affiliate links (tag jbinsights-20) to support this guide.
